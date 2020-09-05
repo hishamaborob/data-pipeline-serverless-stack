@@ -1,0 +1,10 @@
+bin/*.js
+lib/*.js
+test/*.js
+!test/data-processor.test.js
+*.d.ts
+node_modules
+package-lock.json
+# CDK asset staging directory
+.cdk.staging
+cdk.out

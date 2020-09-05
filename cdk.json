@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/app-rating-data-pipeline.ts"
+}
